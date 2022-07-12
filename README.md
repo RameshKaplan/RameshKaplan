@@ -4,18 +4,18 @@
     width="100"
   />
 
-# Hi I'm Sathishkumar 👋  
-[![Linkedin Badge](https://img.shields.io/badge/-sathishkumar63-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathishkumar63/)
-[![Twitter Badge](https://img.shields.io/badge/-@__sathishjim63-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/sathishjim63)
-[![Gmail Badge](https://img.shields.io/badge/-sathishjim-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sathishjim@gmail.com)
+# Hi I'm Ramesh Rajendran 👋  
+[![Linkedin Badge](https://img.shields.io/badge/-RameshKaplan-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rameshfullstack/)
+[![Twitter Badge](https://img.shields.io/badge/-@__sathishjim63-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ramesh)
+[![Gmail Badge](https://img.shields.io/badge/-rameshbe87-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rameshbe87@gmail.com)
     
 <img
-  src="https://komarev.com/ghpvc/?username=sathishkumar63&style=flat-square&color=green"
+  src="https://komarev.com/ghpvc/?username=rameshkaplan&style=flat-square&color=green"
   alt="profile views counter"
   />
 </div>
 
-Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North America. I am an Experienced Fullstack Developer with a demonstrated history of working in the education management industry. Skilled in HTML5, CSS3, SCSS, Bootstrap, Accessibility, jQuery, Angular, NgRx, RxJs, Nrwl/Nx, Angular Material, JavaScript, Typescript, Jest, GraphQL, Sequelize ORM,  Express Js, NodeJS, PostgreSQL, MySQL, PHP, CodeIgniter and SlimPHP. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sathishkumar63/)!
+Welcome to my profile! I’m working as a Senior Software Engineer - II at Kaplan North America. I am an Experienced Fullstack Developer with a demonstrated history of working in the education management industry. Skilled in HTML5, CSS3, SCSS, Bootstrap, Accessibility, jQuery, Angular, NgRx, RxJs, Nrwl/Nx, Angular Material, JavaScript, Typescript, Jest, GraphQL, Sequelize ORM,  Express Js, NodeJS, PostgreSQL, MySQL, PHP, CodeIgniter and SlimPHP. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/rameshfullstack/)!
 
 
 ---
@@ -80,13 +80,13 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### My Stats :fire:
-[![Sathishkumar63's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sathishkumar63&show_icons=true&count_private=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=sathishkumar63&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
+[![RameshKaplan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RameshKaplan&show_icons=true&count_private=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=RameshKaplan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
 
-[![Sathishkumar63's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishkumar63&count_private=true&show_icons=true&theme=solarized-dark)](https://github-readme-stats.vercel.app/api?username=sathishkumar63&count_private=true&show_icons=true&theme=solarized-dark)
+[![RameshKaplan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RameshKaplan&count_private=true&show_icons=true&theme=solarized-dark)](https://github-readme-stats.vercel.app/api?username=RameshKaplan&count_private=true&show_icons=true&theme=solarized-dark)
 
-[![Sathishkumar63's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar63&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar63&layout=compact&show_icons=true&count_private=true&theme=vision-friendly-dark)
+[![RameshKaplan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RameshKaplan&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=RameshKaplan&layout=compact&show_icons=true&count_private=true&theme=vision-friendly-dark)
 
-[![Sathishkumar63's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sathishkumar63)](https://wakatime.com/@sathishkumar63)
+[![RameshKaplan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RameshKaplan)](https://wakatime.com/@RameshKaplan)
 
 <!--START_SECTION:waka-->
 
@@ -107,5 +107,5 @@ Other             50 mins         ▒░░░░░░░░░░░░░░�
 
 ### GitHub Trophies 🏆
   
-![GitHub Medals](https://github-profile-trophy.vercel.app/?username=sathishkumar63&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Medals](https://github-profile-trophy.vercel.app/?username=RameshKaplan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
