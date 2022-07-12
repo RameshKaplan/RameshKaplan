@@ -6,7 +6,7 @@
 
 # Hi I'm Ramesh Rajendran 👋  
 [![Linkedin Badge](https://img.shields.io/badge/-RameshKaplan-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rameshfullstack/)
-[![Twitter Badge](https://img.shields.io/badge/-@__sathishjim63-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ramesh)
+[![Twitter Badge](https://img.shields.io/badge/-@__rameshbe87-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/rameshbe87)
 [![Gmail Badge](https://img.shields.io/badge/-rameshbe87-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rameshbe87@gmail.com)
     
 <img
