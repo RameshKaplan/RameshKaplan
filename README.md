@@ -34,10 +34,7 @@ Welcome to my profile! I’m working as a Senior Software Engineer - II at Kapla
 
 #### JS Framework/Library
 [![Angular](https://img.shields.io/badge/-Angular-c4002f?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![Angular Material](https://img.shields.io/badge/-Angular%20Material-3f51b5?style=for-the-badge&logo=angular&logoColor=white)](https://material.angular.io/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![RxJS](https://img.shields.io/badge/-RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)](https://rxjs.dev/)
-[![NgRx](https://img.shields.io/badge/-NgRx-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)](https://ngrx.io/)
 [![jQuery](https://img.shields.io/badge/-jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
 #### JavaScript testing framework
@@ -46,24 +43,18 @@ Welcome to my profile! I’m working as a Senior Software Engineer - II at Kapla
 
 #### Query Language
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Apollo-GraphQL](https://img.shields.io/badge/Apollo-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
 
 #### Design/Visual Tools
 [![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)](https://www.figma.com/)
 
 #### Database
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 #### Backend
 [![NodeJS](https://img.shields.io/badge/-NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/learn/introduction-to-nodejs)
 [![Express.js](https://img.shields.io/badge/-ExpressJS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
-[![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-%23404d59.svg?style=for-the-badge&logo=sequelize&logoColor=%2361DAFB)](https://sequelize.org/v7/)
-[![PHP](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.w3schools.com/php/)
-[![Code-Igniter](https://img.shields.io/badge/-CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)](https://codeigniter.com/user_guide/tutorial/index.html)
 
 #### Web Hosting
-[![Firebase](https://img.shields.io/badge/-Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 
 #### Package Manager
