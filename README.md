@@ -71,6 +71,7 @@ Welcome to my profile! I’m working as a Senior Software Engineer - II at Kapla
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### My Stats :fire:
 [![RameshKaplan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RameshKaplan&show_icons=true&count_private=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=RameshKaplan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
