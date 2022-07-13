@@ -32,7 +32,8 @@ Welcome to my profile! I’m working as a Senior Software Engineer - II at Kapla
 [![SCSS](https://img.shields.io/badge/-SCSS-bf4080?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
 [![Less](https://img.shields.io/badge/-less-1d365d?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/)
 
-#### JS Framework/Library
+#### Framework/Library
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 [![Angular](https://img.shields.io/badge/-Angular-c4002f?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![jQuery](https://img.shields.io/badge/-jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
