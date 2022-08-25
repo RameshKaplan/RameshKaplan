@@ -85,15 +85,15 @@ Welcome to my profile! I’m working as a Senior Software Engineer - II at Kapla
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 July 2022 - To: 22 August 2022
+From: 24 July 2022 - To: 23 August 2022
 
-Total Time: 29 hrs 21 mins
+Total Time: 29 hrs 37 mins
 
-TypeScript   20 hrs 1 min    █████████████████░░░░░░░░   67.74 %
-HTML         6 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.61 %
-JSON         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+TypeScript   20 hrs 1 min    ████████████████▓░░░░░░░░   67.13 %
+HTML         6 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+JSON         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+C#           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 YAML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-C#           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
