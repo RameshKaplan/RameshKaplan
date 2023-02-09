@@ -85,6 +85,10 @@ Welcome to my profile! I’m working as a Senior Software Engineer - II at Kapla
 <!--START_SECTION:waka-->
 
 ```text
+From: 08 January 2023 - To: 07 February 2023
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
